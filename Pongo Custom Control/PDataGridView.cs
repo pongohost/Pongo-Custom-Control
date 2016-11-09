@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Pongo_Custom_Control
 {
-    public partial class UserControl1: UserControl
+    public partial class PDataGridView : UserControl
     {
-        public UserControl1()
+        public PDataGridView()
         {
             InitializeComponent();
         }
